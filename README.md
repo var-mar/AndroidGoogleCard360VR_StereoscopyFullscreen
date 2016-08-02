@@ -6,8 +6,5 @@ http://www.varvarag.info/
 
 
 
-AndroidManifest.xml
 
 
-
-main_layout.xml
